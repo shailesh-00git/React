@@ -1,11 +1,10 @@
-.display {
+.BtnContainer {
   width: 95%;
   border: 2px solid black;
-  height: 50px;
+  height: 171px;
   margin: 5px auto;
-  font-size: 20px;
-  padding: 5px;
+  flex-wrap: wrap;
   display: flex;
   align-items: center;
-  justify-content: end;
+  justify-content: space-evenly;
 }
