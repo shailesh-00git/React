@@ -1,0 +1,20 @@
+.sidebar{
+  height: 650px;
+  position: fixed;
+}
+.postlist{
+  margin:  5px auto;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  
+}
+.post{
+  margin: 0px 8px;
+}
+.card-tags{
+  margin: 0px 0px 9px 12px;
+}
+.remove-badge{
+  cursor: pointer;
+}
